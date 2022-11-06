@@ -6,3 +6,5 @@ Built using Model Builder in ArcGIS Pro 3.0.2.
 # Workflow
 
 ![workflow](https://user-images.githubusercontent.com/117570845/200166368-da5af1ba-1f02-4d0e-bdc6-9450bc1d05f0.png)
+Black lines - implemented in the demo app.
+Orange lines - not yet implemented
